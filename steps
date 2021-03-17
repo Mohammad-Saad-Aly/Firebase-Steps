@@ -1,0 +1,9 @@
+node js download 
+check verssion of node and npm
+open cmd
+1) npm install -g firebase-tools
+2) firebase login/logout
+3) firebase init
+ab jo he hmein apni files ko public folder main jane k baad index.html se replace karna he , or iske ilawa jitni bhi files hongi jo humne khud create ki un sab ko public k folder main daalna he
+4) firebase deploy 
+hosting url : jisko apko copy krna or paste and then boom !! 
